@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "angular": "~1.5.5",
-    "bootstrap": "~3"
+    "bootstrap": "~3",
+    "oauthio-web": "~0.5"
   }
 }
