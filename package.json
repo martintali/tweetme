@@ -1,0 +1,14 @@
+{
+  "name": "tweetme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:martintali/tweetme.git"
+  },
+  "description": "TODO list",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.5.5",
+    "bootstrap": "~3"
+  }
+}
